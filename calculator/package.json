@@ -4,7 +4,8 @@
   "description": "My calculator",
   "main": "app.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "docs:build": "documentation build ./* -f html -o docs"
   },
   "author": "Manish Bharti",
   "license": "ISC",
