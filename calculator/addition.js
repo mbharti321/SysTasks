@@ -1,5 +1,6 @@
 module.exports = addition;
 
+// let man = false;
 
 /**
  * Add two numbers

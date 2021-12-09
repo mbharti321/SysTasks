@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1639033010453" clover="3.2.0">
-  <project timestamp="1639033010453" name="All files">
+<coverage generated="1639055143738" clover="3.2.0">
+  <project timestamp="1639055143739" name="All files">
     <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2" elements="8" coveredelements="6" complexity="0" loc="5" ncloc="5" packages="1" files="2" classes="2"/>
     <file name="addition.js" path="C:\Users\mbhar\Desktop\projects\sysTasks\calculator\addition.js">
       <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="4" count="8" type="stmt"/>
-      <line num="8" count="0" type="stmt"/>
+      <line num="13" count="8" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
     </file>
     <file name="multiplication.js" path="C:\Users\mbhar\Desktop\projects\sysTasks\calculator\multiplication.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="4" count="4" type="stmt"/>
+      <line num="11" count="4" type="stmt"/>
     </file>
   </project>
 </coverage>
