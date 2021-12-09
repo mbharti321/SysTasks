@@ -4,7 +4,7 @@
   "description": "My calculator",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "author": "Manish Bharti",
   "license": "ISC",
