@@ -1,6 +1,6 @@
 // const { expect } = require("@jest/globals");
 // const { test } = require("picomatch");
-const addition = require(__dirname + "/addition.js");
+const addition = require(__dirname + "/../addition.js");
 
 test("Test addition of two numbers: ", () => {
     expect(addition(2,50)).toBe(52)
