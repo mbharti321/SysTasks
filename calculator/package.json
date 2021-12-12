@@ -5,12 +5,13 @@
   "main": "app.js",
   "scripts": {
     "test": "jest --coverage",
-    "docs:build": "documentation build ./* -f html -o docs",
+    "docs:build": "documentation build src/* -f html -o docs",
     "lint": "eslint ./"
   },
   "author": "Manish Bharti",
   "license": "ISC",
   "devDependencies": {
+    "documentation": "^13.2.5",
     "eslint": "^8.4.1",
     "jest": "^27.4.3"
   }

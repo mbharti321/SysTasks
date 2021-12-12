@@ -1,5 +1,5 @@
 TN:
-SF:addition.js
+SF:src\addition.js
 FN:12,addition
 FN:16,addTemp
 FNF:2
@@ -15,7 +15,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:multiplication.js
+SF:src\multiplication.js
 FN:10,multiplication
 FNF:1
 FNH:1

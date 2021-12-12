@@ -1,7 +1,7 @@
 // const { expect } = require("@jest/globals");
 // const { test } = require("picomatch");
 
-const multiplication = require(__dirname + "/../multiplication.js")
+const multiplication = require(__dirname + "/../src/multiplication.js")
 
 
 /**
